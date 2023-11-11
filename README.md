@@ -1,6 +1,6 @@
 # <h1 align="center"> Creating-a-news-website-with-the-Google-News-API</h1>
 
-## <h3 align="center">The aim is to provide a live news website via the Google News API; it also has a doomscroolling warning.</h3>
+## <h3 align="center">The aim is to provide a live news website via the Google News API; it also has a doomscrolling warning to prevent users from scorching news for long hours.</h3>
 ---
 
 ### <h3 align="left">How does it work</h3>
