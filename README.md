@@ -15,4 +15,4 @@ This website is built with Python and Streamlit and uses a Google News API key t
 
 ### <h3 align="left">Project Demo</h3>
 ---
-![Demo GIF]()
+![Demo GIF](https://github.com/sahar119/Creating-a-news-website-with-the-Google-News-API/blob/main/gif4.gif)
